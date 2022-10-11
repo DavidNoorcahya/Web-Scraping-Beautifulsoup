@@ -1,5 +1,8 @@
 # Web-Scraping-Beautifulsoup
 
+![web scraping](https://user-images.githubusercontent.com/88575814/195035674-121d0f64-c607-4c6d-ab47-2889a7dc5951.png)
+
+
 In the current era of digitalization, a lot of data can be accessed easily by the public through a technology, this has a positive impact on every data actor or practitioner, especially in data mining where they can get a wide range of dataset sources to perform an activity. Web mining or commonly referred to as the web scraping method is one way that can be done to get data sources from the internet, especially on data contained on a website.
 
 In the scraping process that will be carried out this time is web scraping using Beautifulsoup and Selenium on one of the property buying and selling websites, lamudi.co.id. Then the data to be taken is the selling price data for apartments located in DKI Jakarta. The features of the data to be retrieved are:
